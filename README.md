@@ -83,11 +83,11 @@ Clients and collaborators can count on me to break down a problem, find the root
 
 📫 Contact & Links
 
-Upwork: (You can add your public profile link)
+Upwork: https://www.upwork.com/freelancers/~016923630116835d05?mp_source=share
 
 GitHub: https://github.com/chrisjmendoza
 
-LinkedIn: (Add if you want visibility)
+LinkedIn: https://www.linkedin.com/in/chrisjmendoza/
 
 Email: chrisjmendoza@gmail.com
 
