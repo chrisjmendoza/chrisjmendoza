@@ -1,13 +1,12 @@
 ⭐ Chris Mendoza — Android (Kotlin/Compose) & Python Automation Developer
 
 Hi, I’m Chris, a developer who loves turning complex engineering workflows into clean, reliable software.
-My focus is Android development with Kotlin + Jetpack Compose and Python automation, especially tools that make real-world processes work smoother — from mobile UI features to OCR pipelines and backend utilities.
+My focus is Android development with Kotlin + Jetpack Compose and Python automation—especially tools that make real-world processes work smoother, from mobile UI features to OCR pipelines and system utilities.
 
 I enjoy solving problems that mix structure, precision, and creativity.
 If something needs to be debugged, refactored, automated, or rebuilt cleanly… that’s my wheelhouse.
 
 🔧 Tech Stack & Skills
-
 Mobile Development
 
 Kotlin • Jetpack Compose • Android SDK
@@ -18,7 +17,7 @@ Backend & Automation
 
 Python • FastAPI • Async APIs
 
-OCR workflows • PDF processing • Automation scripts
+OCR workflows • PDF processing • Automation & system utilities
 
 Tools & Ecosystem
 
@@ -28,7 +27,7 @@ Software architecture • Debugging & refactoring
 
 Clean code, testability, and maintainability
 
-🚀 Featured Project
+🚀 Featured Projects
 🛠️ ShaftSchematic (Public Repo)
 
 Android app for generating marine shaft schematics using parametric components and real-world machining rules.
@@ -45,11 +44,31 @@ Taper calculations & metadata validation
 
 PDF export and drawing layout engine
 
-Clean architecture with modular components
+Clean, modular architecture
 
 Designed to support real machining workflows with precision, clarity, and repeatable results.
 
 👉 Repo: https://github.com/chrisjmendoza/ShaftSchematic
+
+🔌 PortFlow (Public Repo)
+
+A lightweight, local-first USB backup utility focused on reliability, transparency, and zero-surprise behavior.
+
+Key features:
+
+One-shot and scheduled backup execution
+
+JSON-based configuration for clarity and auditability
+
+Safe, deterministic file syncing (robocopy-based)
+
+Designed for removable drives and offline workflows
+
+Clean CLI output and predictable behavior
+
+Built as a practical automation tool with a strong emphasis on correctness, debuggability, and user trust.
+
+👉 Repo: https://github.com/chrisjmendoza/portflow
 
 💼 What I Work On
 
@@ -79,7 +98,7 @@ High-quality code that’s built to last
 
 Fast iteration with honest expectations
 
-Clients and collaborators can count on me to break down a problem, find the root cause, and implement a reliable solution — not a quick hack.
+Clients and collaborators can count on me to break down a problem, find the root cause, and implement a reliable solution—not a quick hack.
 
 📫 Contact & Links
 
