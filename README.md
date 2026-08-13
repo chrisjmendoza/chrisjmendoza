@@ -55,9 +55,9 @@ A privacy-first Android SMS/MMS client built as a full default-messaging-app rep
 ---
 
 ### 📘 Reading the Machine — Programming Textbook / Instructional Project
-A programming textbook built around real production-style code from ShaftSchematic and MemoBoard. Instead of teaching isolated syntax exercises, it focuses on learning how to read an unfamiliar codebase, trace behavior, reason about architecture, debug problems, understand tests, and turn requirements into implementation.
+A programming textbook that teaches software architecture backwards by walking through two real Kotlin/Android codebases: ShaftSchematic and Postmark. Rather than starting with isolated syntax exercises, it teaches readers to examine working systems, identify the architecture and constraints already present, trace behavior through the code, and understand why implementation decisions follow from real client requirements.
 
-The project is currently being prepared for publication and instructor feedback as supplemental programming material.
+The body is complete and the project is being prepared for publication and instructor feedback as supplemental programming material.
 
 ---
 
