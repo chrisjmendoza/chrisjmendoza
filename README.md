@@ -39,6 +39,21 @@ A mobile-first bike maintenance platform for building a durable service history 
 
 ---
 
+### ✉️ Postmark — Android · Kotlin · Jetpack Compose
+A privacy-first Android SMS/MMS client built as a full default-messaging-app replacement. Postmark maintains its own local message database so it can provide fast search, rich media handling, backups, statistics, and conversation customization without a cloud dependency.
+
+**Highlights:**
+- Android default-SMS integration with system message synchronization, receivers, `SmsManager`, and `RoleManager`
+- Room + FTS4 persistence with fast message search and structured repository/domain layers
+- Photo, video, and voice-memo messaging with MMS-aware attachment budgeting and media compression
+- Scheduled local backups and idempotent restore workflows using WorkManager and the Storage Access Framework
+- Apple and Android reaction parsing, per-conversation personalization, statistics, and rich conversation export
+- JVM unit tests plus emulator-backed instrumented testing in GitHub Actions
+
+👉 [github.com/chrisjmendoza/postmark](https://github.com/chrisjmendoza/postmark)
+
+---
+
 ### 📘 Reading the Machine — Programming Textbook / Instructional Project
 A programming textbook built around real production-style code from ShaftSchematic and MemoBoard. Instead of teaching isolated syntax exercises, it focuses on learning how to read an unfamiliar codebase, trace behavior, reason about architecture, debug problems, understand tests, and turn requirements into implementation.
 
